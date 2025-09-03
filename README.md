@@ -18,4 +18,5 @@
 ## 연락처
 
 - 이메일: [dev_sklg0602@naver.com](mailto:dev_sklg0602@naver.com)  
-- GitHub: [https://github.com/Hyeonjunnn](https://github.com/Hyeonjunnn)  
+- GitHub: [https://github.com/Hyeonjunnn](https://github.com/Hyeonjunnn)
+- Blog: [https://seed-v1.vercel.app](https://seed-v1.vercel.app)
